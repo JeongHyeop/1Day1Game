@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ce8a42a8aba1b754da6199a3d8ff2888
+timeCreated: 1482934294
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Expressway
+  fontNames:
+  - Expressway
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

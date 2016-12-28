@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b7f3b321e436434897a4167df79a58b
+timeCreated: 1482934294
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Survivant
+  fontNames:
+  - Survivant
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
