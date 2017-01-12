@@ -48,6 +48,11 @@
   <ItemGroup>
      <Compile Include="Assets\02.Scripts\MobileSetting\MoblieSetting.cs" />
      <Compile Include="Assets\02.Scripts\SceneController.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCamera.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCameraMoveButton.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHPlayButton.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHPlayerStone.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\PJHSceneManager.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/UnityVersions/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

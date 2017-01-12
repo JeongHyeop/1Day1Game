@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/01.Scene/MainMenuScene.unity
+- path: Assets/JeongHyeop/01.Scene/PJHStage1Scene.unity
   isLoaded: 1
   isActive: 1

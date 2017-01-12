@@ -7,7 +7,7 @@ public class SceneController : MonoBehaviour {
 
     public void PJHGameButtonClick()
     {
-        SceneManager.LoadScene("PJHInGameScene");
+        SceneManager.LoadScene("PJHMainMenuScene");
     }
     public void KJHGameButtonClick()
     {
