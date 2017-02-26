@@ -8,7 +8,7 @@ public class PJHCamera : MonoBehaviour {
 
     void Update()
     {
-        if (playButton.playButton == true)
+        if (playButton.playButtonOnCheck == true)
         {
             transform.position = new Vector3(player.transform.position.x, player.transform.position.y + 3.0f, -10.0f);    
         }        

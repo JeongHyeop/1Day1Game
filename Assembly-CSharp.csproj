@@ -49,10 +49,16 @@
      <Compile Include="Assets\02.Scripts\MobileSetting\MoblieSetting.cs" />
      <Compile Include="Assets\02.Scripts\SceneController.cs" />
      <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCamera.cs" />
-     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCameraMoveButton.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCameraController.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHCameraMove.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHFlagDistanceCheck.cs" />
      <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHPlayButton.cs" />
      <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHPlayerStone.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\InGame\PJHStoneDisPosition.cs" />
      <Compile Include="Assets\JeongHyeop\02.Scripts\PJHSceneManager.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\Score\PJHSuccessCheck.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\UI\PJHCloud.cs" />
+     <Compile Include="Assets\JeongHyeop\02.Scripts\UI\PJHInGameUI.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/UnityVersions/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PJHPlayButton : MonoBehaviour
 {
-    public bool playButton = false;
+    public bool playButtonOnCheck = false;
 
     public void PlayButton()
     {
-        if (playButton == false)
-            playButton = true;
-        else if (playButton == true)
-            playButton = false;
+       // if (playButtonOnCheck == false)
+            playButtonOnCheck = true;
+        //else if (playButtonOnCheck == true)
+        //    playButtonOnCheck = false;
     }
 }
